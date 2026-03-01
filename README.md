@@ -8,8 +8,8 @@ My main tech stacks are Python, JavaScript, React.js, and LangChain.
 
 I've got a bunch of pinned projects, but my favorite is the Library Management System.
 
-📫 How to reach me:
+## 📫 How to Reach Me
 
-* 📧 Email: [programmer.kenneth@gmail.com](mailto:programmer.kenneth@gmail.com)
-* 📱 Phone: +62 851-2139-3889
-* 🔗 LinkedIn: [www.linkedin.com/in/kennethmatthew](www.linkedin.com/in/kennethmatthew)
+📧 Email: [programmer.kenneth@gmail.com](mailto:programmer.kenneth@gmail.com)  
+📱 Phone: +62 851-2139-3889  
+🔗 LinkedIn: [linkedin.com/in/kennethmatthew](https://www.linkedin.com/in/kennethmatthew)
