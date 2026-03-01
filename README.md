@@ -6,7 +6,7 @@ I enjoy building intelligent systems, improving AI model performance, and creati
 
 My main tech stacks are Python, JavaScript, React.js, and LangChain.
 
-I've got a bunch of pinned projects, but my favorite is the Library Management System.
+I've got a bunch of pinned projects, but my favorite is the [Library Management System](https://github.com/matthewyn/perpustakaan-sd-binekas).
 
 ## 📫 How to Reach Me
 
