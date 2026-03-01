@@ -10,6 +10,6 @@ I've got a bunch of pinned projects, but my favorite is the Library Management S
 
 📫 How to reach me:
 
-📧 Email: [programmer.kenneth@gmail.com](mailto:programmer.kenneth@gmail.com)
-📱 Phone: +62 851-2139-3889
-🔗 LinkedIn: [www.linkedin.com/in/kennethmatthew](www.linkedin.com/in/kennethmatthew)
+* 📧 Email: [programmer.kenneth@gmail.com](mailto:programmer.kenneth@gmail.com)
+* 📱 Phone: +62 851-2139-3889
+* 🔗 LinkedIn: [www.linkedin.com/in/kennethmatthew](www.linkedin.com/in/kennethmatthew)
