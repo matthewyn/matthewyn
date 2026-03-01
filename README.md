@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**matthewyn/matthewyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kenneth, a software engineer based on Indonesia.
 
-Here are some ideas to get you started:
+I enjoy building intelligent systems, improving AI model performance, and creating real-world applications that solve meaningful problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stacks are Python, JavaScript, React.js, and LangChain.
+
+I've got a bunch of pinned projects, but my favorite is the Library Management System.
+
+📫 How to reach me:
+
+📧 Email: [programmer.kenneth@gmail.com](mailto:programmer.kenneth@gmail.com)
+📱 Phone: +62 851-2139-3889
+🔗 LinkedIn: [www.linkedin.com/in/kennethmatthew](www.linkedin.com/in/kennethmatthew)
