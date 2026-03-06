@@ -4,7 +4,7 @@ I'm Kenneth, a software engineer based on Indonesia.
 
 I enjoy building intelligent systems, improving AI model performance, and creating real-world applications that solve meaningful problems.
 
-My main tech stacks are Python, JavaScript, React.js, and LangChain.
+My main tech stacks are Python, JavaScript, TypeScript, React.js, and LangChain.
 
 I've got a bunch of pinned projects, but my favorite is the [Library Management System](https://github.com/matthewyn/perpustakaan-sd-binekas).
 
