@@ -6,7 +6,7 @@ I enjoy building intelligent systems, improving AI model performance, and creati
 
 My main tech stacks are Python, JavaScript, TypeScript, React.js, Redis, MongoDB, and LangChain.
 
-I've got a bunch of pinned projects, but my favorite is the [Library Management System](https://github.com/matthewyn/perpustakaan-sd-binekas).
+I've got a bunch of pinned projects, but my favorite is the [Cinema Booking System](https://github.com/matthewyn/imovie-client).
 
 ## 📫 How to Reach Me
 
